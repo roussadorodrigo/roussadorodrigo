@@ -1,16 +1,22 @@
-## Hi there 👋
+# Rodrigo Roussado Viegas
+**`Electronics and Telecommunications Engineering Student - ISEL Lisbon`**
 
-<!--
-**roussadorodrigo/roussadorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm a 21 year old studying **`Electronics, Telecommunications and Computer Engineering`** at Instituto Superior de Engenharia de Lisboa (ISEL)
+- 
 
-Here are some ideas to get you started:
+## Skills
+- C Language, MATLAB and Python
+- Electronics Circuits Design, Analysis and Simulation (LTSpice)
+- Telecommunications
+- LTI Systems
+- Microsoft Word, Excel and Powerpoint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Roles
+- Telecommunication Department Manager at ISEL Space
+
+## Interests
+- Guitar Pedals Analog and Digital Electronics
+- Embedded Systems and Low Level C Programming
+- Digital Signal Processing
+- Physics
