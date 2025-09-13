@@ -14,9 +14,11 @@
 
 ## Other Roles
 - Telecommunication Department Manager at ISEL Space
+- 1st Year Students Mentor
 
 ## Interests
-- Guitar Pedals Analog and Digital Electronics
+- Guitar Pedals
+- Analog and Digital Electronics
 - Embedded Systems and Low Level C Programming
 - Digital Signal Processing
 - Physics
