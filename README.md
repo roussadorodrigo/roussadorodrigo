@@ -21,5 +21,6 @@
 - Guitar Pedals
 - Analog and Digital Electronics
 - Embedded Systems and Low Level C Programming
+- FPGAs and other Programmable Digital & Analog Systems
 - Digital Signal Processing
 - Physics
