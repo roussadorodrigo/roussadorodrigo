@@ -13,8 +13,9 @@
 - Microsoft Word, Excel and Powerpoint
 
 ## Other Roles
-- Telecommunication Department Manager at ISEL Space
-- 1st Year Students Mentor
+- Founding Member of the CodPop Guitar Pedals Project (2024 - now)
+- Telecommunication Department Manager at ISEL Space (2024 - 2025)
+- 1st Year Students Mentor (2023 and 2025)
 
 ## Interests
 - Guitar Pedals
