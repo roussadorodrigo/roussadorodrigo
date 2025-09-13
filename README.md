@@ -3,7 +3,7 @@
 
 ## About Me
 - I'm a 21 year old studying **`Electronics, Telecommunications and Computer Engineering`** at Instituto Superior de Engenharia de Lisboa (ISEL)
-- Aiming at finding a job in electronics in the future and doing masters in Electronics/Electrical Engineering
+- Aiming at finding a job in electronics in the future and doing masters in Electronics/Electrical Engineering outside Portugal
 
 ## Skills
 - C Language, MATLAB and Python
